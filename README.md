@@ -9,7 +9,7 @@ November 27, 2016**
 
 * **getData.r** - *R script that retrieves the dataset, stores it locally, unzips the master file and loads the data into a dataframe*  
 
-* **run_analysis.R** - *R script that retrieves the data via the getData function (getData.R) and does the following:*  
+* **run_analysis.R** - *R script that retrieves the data via the getData.R file and does the following:*  
 
     1. Merges the training and the test sets to create one data set.
     2. Extracts only the measurements on the mean and standard deviation for each measurement.
