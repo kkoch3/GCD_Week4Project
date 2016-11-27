@@ -12,8 +12,8 @@ November 27, 2106**
 * The original data was retrieved at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ###Two datasets were created via the run_analysis.R script:  
-* wearableData - saved to wearableData.csv  
-* tidyData - saved to tidyData.csv
+* wearableData - saved to wearableData.txt  
+* tidyData - saved to tidyData.txt
 
 ---
 
