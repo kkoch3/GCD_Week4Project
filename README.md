@@ -18,9 +18,9 @@ November 27, 2016**
     5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
       
   
-* **wearableData.csv** - *output file for steps 1-4 above (combined test and training data)*  
+* **wearableData.txt** - *output file for steps 1-4 above (combined test and training data)*  
 
-* **tidyData.csv** - *output file for step 5 above*  
+* **tidyData.txt** - *output file for step 5 above*  
 
 
 ### IMPORTANT - The following packages are required to run these scripts:  
